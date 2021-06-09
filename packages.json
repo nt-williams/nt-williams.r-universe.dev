@@ -1,0 +1,10 @@
+[
+  {
+    "package": "lmtp",
+    "url": "https://github.com/nt-williams/lmtp"
+  },
+  {
+    "package" : "simul",
+    "url" : "https://github.com/nt-williams/simul"
+  }
+]
