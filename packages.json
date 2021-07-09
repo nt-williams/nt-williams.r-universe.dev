@@ -6,5 +6,9 @@
   {
     "package" : "simul",
     "url" : "https://github.com/nt-williams/simul"
+  }, 
+  {
+    "package": "codebook", 
+    "url": "https://github.com/nt-williams/codebook"
   }
 ]
