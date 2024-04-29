@@ -1,7 +1,7 @@
 [
   {
     "package": "lmtp",
-    "url": "https://github.com/nt-williams/lmtp"
+    "url": "https://github.com/nt-williams/lmtp@devel"
   },
   {
     "package" : "simul",
