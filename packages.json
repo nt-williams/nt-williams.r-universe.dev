@@ -11,5 +11,9 @@
   {
     "package": "codebreak", 
     "url": "https://github.com/nt-williams/codebreak"
+  },
+    {
+    "package": "ife", 
+    "url": "https://github.com/nt-williams/ife"
   }
 ]
